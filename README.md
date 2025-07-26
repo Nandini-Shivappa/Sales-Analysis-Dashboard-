@@ -19,3 +19,6 @@ This project explores sales trends over 3 months of an Indian Brand that sells i
 
 ##  Colab Notebook:
 [Click here to view the notebook](https://colab.research.google.com/drive/1BCMW7WCPRwu98PClQZY8aMLs8A5eRocV?usp=sharing)
+
+##  Presentation
+[https://1drv.ms/b/c/b267266380dccd2e/EWHjbQSaBUVDlLYgtFNHlSQBqqtc6ZHUDZmBJxx0oBe8NA?e=cF8nmu]
