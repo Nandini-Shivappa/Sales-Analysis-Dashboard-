@@ -1,6 +1,6 @@
 #  Sales Analysis Dashboard (Power BI + Google Colab)
 
-This project explores sales trends over 3 months using Power BI and Python (in Google Colab).
+This project explores sales trends over 3 months of an Indian Brand that sells its products Kurtas ans Sets in one online platform i.e., Amazon. We analyse the dataset of this e-commerce business dataset using Power BI and Python (in Google Colab).
 
 ##  Tools Used:
 - Power BI
@@ -13,9 +13,6 @@ This project explores sales trends over 3 months using Power BI and Python (in G
 - Notebooks → Google Colab analysis
 - Data → Raw/cleaned data
 - Images → Screenshots
-
-##  Dashboard Preview:
-![Dashboard](Images/dashboard_preview.png)
 
 ## Power BI Dashboard:
 [Click here to view the Power BI Dashboard].(https://1drv.ms/u/c/b267266380dccd2e/EdCzIGNKJHxAms0Ny0SfE9ABqnbarGRXtphKWN99R8jYfA?e=CbBPxF)
